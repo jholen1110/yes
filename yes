@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+    <link rel='stylesheet' type='text/css' href='website.css'>
+</head>
+<body class='bg' bgcolor='hotpink'>
+
+	<div id='bg'>
+		<img id='bg1' src='bgslide/1.jpg'></img>
+		<img id='bg2' src='bgslide/2.jpg'></img>
+		<img id='bg3'src='bgslide/3.jpg'></img>
+		<img id='bg4'src='bgslide/4.jpg'></img>
+		<img id='bg5'src='bgslide/5.jpg'></img>
+	</div>
+	
+	<div id='leftbar' class='launch' background='fabric.jpg'>
+	
+		<h1>Pimp My Hamster</h1><hr color='white'>
+		<p class='welcome'>Pimp My Hamster is a website that is devoted to hamster care and hamster accessories. Our products range from the smallest of
+accesories, like hamster nail clippers and different-flavoured sand baths, to the largest of necessities like cages and stands.
+Your hamster's health will always be our top priority and our products are made to be safe for hamster consumption and/or use.
+With our various designs and custom-made orders, you are sure to find the best choice that will fit your hamster. Are you new to
+being a hamster mommy/daddy? We have you covered with the latest information about the various domesticated hamster breeds
+around the world and how to take care of them.</p><br>
+		
+	 <div id='links'>
+		<a href='homepage.html'>
+		<button type='button' class='btnhm'>Home</button></a>
+		
+		<a href='Browse.html'>
+		<button type='button' class='btnbrs'>Browse</button></a>
+		
+		<a href='homepage.html'>
+		<button type='button' class='btnabt'>About</button></a>
+		
+		<a href='homepage.html'>
+		<button type='button' class='btnctt'>Contact</button></a>
+		
+		<a href='login.html'>
+		<button type='button' class='btnlgn'>Log In</button></a>
+		
+		<a href='signup.html'>
+		<button type='button' class='btnsup'>Sign Up</button></a>
+	 </div>
+	</div>
+
+
+</body>
+</html>
